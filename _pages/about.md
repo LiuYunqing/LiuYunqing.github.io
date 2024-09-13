@@ -29,15 +29,6 @@ I am currently a PhD student of the Department of Computing (COMP), The Hong Kon
  
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-<tbody>
-  {% for post in site.publications reversed %}
-    {% if post.show %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</tbody>
-</table>
 
 
 <div class="pubs-container">
