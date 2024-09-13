@@ -39,7 +39,7 @@ I am currently a PhD student of the Department of Computing (COMP), The Hong Kon
     <div class="p">
     <a href="https://arxiv.org/abs/2307.02046"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
   <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</small>
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small>
   <br> <a href="https://arxiv.org/abs/2307.02046" class="button"><small>arXiv</small></a> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
@@ -51,7 +51,7 @@ I am currently a PhD student of the Department of Computing (COMP), The Hong Kon
     <div class="p">
     <a href="https://arxiv.org/abs/2306.06615"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
   <br> <small>Jiatong Li*, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</small>
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small>
   <br> <small><b>*Co-first author</b></small>
   <br> <a href="https://arxiv.org/abs/2306.06615" class="button"><small>arXiv</small></a> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
