@@ -9,7 +9,11 @@ paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc
 imgurl: 'LLMs_tasks.png'
 show: true
 authors:
-    - name: **Yunqing LIU**
+    - name: Yunqing LIU
+    - name: 1111
+    - name: 1111
+    - name: 1111
+    - name: 1111
     - name: 1111
 links:
     - name: Paper
