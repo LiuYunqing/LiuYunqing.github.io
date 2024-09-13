@@ -6,7 +6,7 @@ excerpt:
 date: 2019-11-17
 venue: 'EurJOC'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572'
-imgurl: '/images/LLMs_tasks.png'
+imgurl: 'LLMs_tasks.png'
 show: true
 authors:
     - name: Yunqing LIU
