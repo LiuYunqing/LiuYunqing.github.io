@@ -40,7 +40,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <a href="https://arxiv.org/abs/2307.02046"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
   <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
   <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small>
-  <br> <a href="https://arxiv.org/abs/2307.02046" class="button"><small>arXiv</small></a> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
+  <br> <a href="https://arxiv.org/abs/2307.02046" class="button"><small>arXiv</small></a> <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
   <br>
