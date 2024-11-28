@@ -40,7 +40,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <a href="https://arxiv.org/abs/2307.02046"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
   <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
   <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <a href="https://arxiv.org/abs/2307.02046" class="button"><small>arXiv</small></a> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
+  <br> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
   <br>
@@ -51,9 +51,9 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2306.06615"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
   <br> <small>Jiatong Li*, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small>
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small><b>*Co-first author</b></small>
-  <br> <a href="https://arxiv.org/abs/2306.06615" class="button"><small>arXiv</small></a> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+  <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>  
     </div>
@@ -63,8 +63,8 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2302.02591"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a>
   <br> <small>Chengyi Liu, Wenqi Fan, <b>Yunqing Liu</b>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small>
-  <br> <a href="https://arxiv.org/abs/2302.02591" class="button"><small>arXiv</small></a> <a href="/files/Diffusion_Survey.pdf" class="button"><small>PDF</small></a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a>
+  <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <a href="/files/Diffusion_Survey.pdf" class="button"><small>PDF</small></a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
   <br>      
@@ -76,8 +76,8 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2302.09820"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
   <br> <small>Hanxu Hu, <b>Yunqing Liu</b>, Zhongyi Yu and Laura Perez-Beltrachini</small>
-  <br> <small>Findings of the Association for Computational Linguistics (<b><i>EACL</i> 2023</b>)</small>
-  <br> <a href="https://arxiv.org/abs/2302.09820" class="button"><small>arXiv</small></a> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
+  <br> <small>Findings of the Association for Computational Linguistics (<b><i>EACL</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
   <br>    
@@ -88,8 +88,8 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"> <b>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</b></a>
   <br> <small>Yue Weng, Bo Ding, <b>Yunqing Liu</b>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
-  <br> <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small>
-  <br> <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609" class="button"><small>Website</small></a> <a href="/files/acs.orglett.1c00609.pdf" class="button"><small>PDF</small></a>
+  <br> <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"><img src="https://img.shields.io/badge/DOI-10.1021-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <a href="/files/acs.orglett.1c00609.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
   <br>     
@@ -100,8 +100,8 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
   <br> <small>Bo Ding, Yue Weng, <b>Yunqing Liu</b>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
-  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small>
-  <br> <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572" class="button"><small>Website</small></a> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
+  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> <a href="https://pubs.acs.org/doi/10.1002/acs.orglett.1c00609"><img src="https://img.shields.io/badge/DOI-10.1002-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
   
