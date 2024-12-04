@@ -40,7 +40,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   <br> <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">arXiv</div><img src='/images/MolReFlect.pdf' alt="sym" width="400"></div></div>
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">arXiv</div><img src='/images/MolReFlect.png' alt="sym" width="400"></div></div>
   <br>
     </div>
   </div>
