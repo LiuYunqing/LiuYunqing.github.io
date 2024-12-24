@@ -37,7 +37,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2412.14642"> <b>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation </b></a>
-  <br><small> Jiatong Li, Junxian Li, **Yunqing Liu**, Dongzhan Zhou, Qing Li</small>
+  <br><small> Jiatong Li, Junxian Li, <b>Yunqing Liu</b>, Dongzhan Zhou, Qing Li</small>
   <br> <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
