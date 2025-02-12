@@ -7,7 +7,7 @@ redirect_from:
   - /awards
 ---
 
-+ <img src='/images/KDD2025.png' style='width: 1.2em;'> [KDD Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), 2025
++ <img src='/images/KDD2025.png' style='width: 2.4em;'> [KDD Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), 2025
 + <img src='/images/polyu_logo.png' style='width: 1.2em;'> [PolyU Research Postgraduate Scholarship (**PRPgS**)](https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/phd-and-mphil-in-computing/), 2023
 + <img src='/images/uoe_log.png' style='width: 1.2em;'> IBM **Third Prize** for the Best Project in Machine Learning Practical (**Third place** out of 53 teams), 2022
 + <img src='/images/whu_logo.png' style='width: 1.2em;'> Outstanding graduate (top 10%), 2020
