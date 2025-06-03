@@ -127,7 +127,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
   <br> <small>Bo Ding, Yue Weng, <b>Yunqing Liu</b>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
-  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> <a href="https://pubs.acs.org/doi/10.1002/acs.orglett.1c00609"><img src="https://img.shields.io/badge/DOI-10.1002-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"><img src="https://img.shields.io/badge/DOI-10.1002-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
