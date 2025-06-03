@@ -78,7 +78,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2306.06615"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
   <br> <small>Jiatong Li*, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
   <br> <small><b>*Co-first author</b></small>
   <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -115,7 +115,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"> <b>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</b></a>
   <br> <small>Yue Weng, Bo Ding, <b>Yunqing Liu</b>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
-  <br> <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"><img src="https://img.shields.io/badge/DOI-10.1021-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> 
   <br> <a href="/files/acs.orglett.1c00609.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
@@ -127,7 +127,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
   <br> <small>Bo Ding, Yue Weng, <b>Yunqing Liu</b>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
-  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"><img src="https://img.shields.io/badge/DOI-10.1002-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
   <br> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
