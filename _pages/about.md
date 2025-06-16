@@ -164,7 +164,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   
 + <img align="left" decoding="async" src="/images/uoe_log.png" width="9%">  &nbsp;&nbsp;&nbsp;MSc in Computer Science | <small>2021.09 - 2022.11</small>
 <br>&nbsp;&nbsp;&nbsp;University of Edinburgh
-<br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Elizabeth Polgreen](https://polgreen.github.io/)
 
 + <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <small>2017.09 - 2020.06</small>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
