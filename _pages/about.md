@@ -179,7 +179,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
 + Research Assistant | <small>2022.10 - 2023.01</small> | <small>Hong Kong</small> 
  <br>Department of Computing, Hong Kong Polytechnic University
- <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+ <br>Advisor: [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + Research Assistant | <small>2020.12 - 2021.05</small> | <small>Beijing</small>
  <br>State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences
  <br>Advisor: [Dr. Zhendong Lei](https://www.tcs-lab.com/members/leizhendong/) and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
