@@ -15,6 +15,7 @@ redirect_from:
 + <img src='/images/whu_logo.png' style='width: 1.2em;'> Asia and Pacific Mathematical Contest in Modeling Second Prize, 2018
 + <img src='/images/whu_logo.png' style='width: 1.2em;'> Outstanding Student, 2017,2018,2019
 + <img src='/images/whu_logo.png' style='width: 1.2em;'> First Class Student Scholarship, 2017,2018,2019
-+ <img src='/images/whu_logo.png' style='width: 1.2em;'> Outstanding New Student Scholarship, 2016 
++ <img src='/images/whu_logo.png' style='width: 1.2em;'> Outstanding New Student Scholarship, 2016
++ Second Prize in the 29th China Chemistry Olympiad (Anhui Province), 2015
 
 
