@@ -24,9 +24,8 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
 ## Research Interest
 
-+ AI for Science
-+ Graph Neural Networks (GNNs)
-+ Natural Language Processing (NLP) 
++ AI for Science (Molecule/Protein Representation Learning and Generation)
++ Natural Language Processing 
  
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
