@@ -37,7 +37,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2506.06294"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>
   <br><small> <b>Yunqing Liu</b>, Wenqi Fan, Xiaoyong Wei, Qing Li</small>
-  <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025</b>)</small> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025 Findings</b>)</small> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="400"></div></div>
@@ -115,7 +115,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2302.09820"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
   <br> <small>Hanxu Hu, <b>Yunqing Liu</b>, Zhongyi Yu and Laura Perez-Beltrachini</small>
-  <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics(<b><i>EACL</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics(<b><i>EACL</i> 2023 Findings</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
