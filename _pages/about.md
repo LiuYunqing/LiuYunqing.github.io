@@ -167,7 +167,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
 + <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <small>2017.09 - 2020.06</small>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
-<br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Huajun Liu](http://csold.whu.edu.cn/teacherinfo.aspx?id=303)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Huajun Liu](https://jszy.whu.edu.cn/liuhuajun/en/index.htm)
 
 + <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BSc in Chemistry | <small>2016.09 - 2020.06</small>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
