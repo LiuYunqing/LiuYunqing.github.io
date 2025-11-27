@@ -171,7 +171,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
 + <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BSc in Chemistry | <small>2016.09 - 2020.06</small>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
-<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](http://aiwenlei.whu.edu.cn/lawsys/l/Aiwen_Lei/)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](https://scholar.google.com/citations?user=whD3aKoAAAAJ&hl=zh-CN)
 
 
 ## Working Experience
