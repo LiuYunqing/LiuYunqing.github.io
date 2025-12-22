@@ -47,7 +47,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2506.06294"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.233/"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>
   <br><small> <b>Yunqing Liu</b>, Wenqi Fan, Xiaoyong Wei, Qing Li</small>
   <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025 Findings</b>)</small> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>
