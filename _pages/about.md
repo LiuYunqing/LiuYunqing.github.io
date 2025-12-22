@@ -113,7 +113,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
   <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2302.02591"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a>
+    <a href="https://www.ijcai.org/proceedings/2023/751"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a>
   <br> <small>Chengyi Liu, Wenqi Fan, <b>Yunqing Liu</b>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
   <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/Diffusion_Survey.pdf" class="button"><small>PDF</small></a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a>
@@ -126,7 +126,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 
   <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2302.09820"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
+    <a href="https://aclanthology.org/2023.findings-eacl.175/"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
   <br> <small>Hanxu Hu, <b>Yunqing Liu</b>, Zhongyi Yu and Laura Perez-Beltrachini</small>
   <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b><i>EACL</i> 2023 Findings</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
