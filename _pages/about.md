@@ -55,9 +55,8 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a>
+    <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan</small>
-  <br> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">Arxiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="400"></div></div>
@@ -67,9 +66,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://aclanthology.org/2025.findings-emnlp.233/"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.233/"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>  <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> <strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li</small>
-  <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025 Findings</b>)</small> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025 Findings</b>)</small>
   <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -81,9 +80,8 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2412.14642"> <b>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation </b></a>
+    <a href="https://arxiv.org/abs/2412.14642"> <b>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation </b></a> <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li</small>
-  <br> <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">arXiv</div><img src='/images/TOMG.png' alt="sym" width="400"></div></div>
@@ -95,9 +93,8 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://arxiv.org/abs/2411.14721"> <b>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts </b></a>
+    <a href="https://arxiv.org/abs/2411.14721"> <b>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts </b></a> <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li</small>
-  <br> <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">arXiv</div><img src='/images/MolReFlect.png' alt="sym" width="400"></div></div>
@@ -109,9 +106,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
   
 <div class="pubs-item">
     <div class="p">
-    <a href="https://ieeexplore.ieee.org/document/10506571/"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
+    <a href="https://ieeexplore.ieee.org/document/10506571/"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a> <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> 
   <br> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
@@ -121,9 +118,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
+    <a href="https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
   <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> 
   <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
   <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -133,9 +130,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
   <div class="pubs-item">
     <div class="p">
-    <a href="https://www.ijcai.org/proceedings/2023/751"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a>
+    <a href="https://www.ijcai.org/proceedings/2023/751"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a> <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Chengyi Liu, Wenqi Fan, <strong style="color: #dc322f">Yunqing Liu</strong>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small> 
   <br> <a href="/files/Diffusion_Survey.pdf" class="button"><small>PDF</small></a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
@@ -146,9 +143,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
   <div class="pubs-item">
     <div class="p">
-    <a href="https://aclanthology.org/2023.findings-eacl.175/"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
+    <a href="https://aclanthology.org/2023.findings-eacl.175/"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
-  <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b><i>EACL</i> 2023 Findings</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b><i>EACL</i> 2023 Findings</b>)</small> 
   <br> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
