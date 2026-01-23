@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a PhD candidate at the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Before joining the PolyU, I received my Master's degree in Computer Science from the University of Edinburgh  (M.Sc. in Computer Science) <img src='/images/uoe_log.png' style='width: 1.2em;'>. In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology) <img src='/images/whu_logo.png' style='width: 1.2em;'>. I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science and Natural Language Processing. I am always welcoming collaboration from solid partners.
+I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</span> at the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Before joining the PolyU, I received my Master's degree in Computer Science from the University of Edinburgh  (M.Sc. in Computer Science) <img src='/images/uoe_log.png' style='width: 1.2em;'>. In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology) <img src='/images/whu_logo.png' style='width: 1.2em;'>. I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
 
 ## Research Interest
@@ -36,7 +36,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a>
-  <br><small> Yi Zhou, Haohao Qu, <b>Yunqing Liu</b>, Shanru Lin, Le Song, Wenqi Fan</small>
+  <br><small> Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan</small>
   <br> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -48,7 +48,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://aclanthology.org/2025.findings-emnlp.233/"> <b>GLProtein: Global-and-Local Structure Aware Protein Representation Learning </b></a>
-  <br><small> <b>Yunqing Liu</b>, Wenqi Fan, Xiaoyong Wei, Qing Li</small>
+  <br><small> <strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li</small>
   <br> <small>The 2025 Conference on Empirical Methods in Natural Language Processing (<b><i>EMNLP</i> 2025 Findings</b>)</small> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>
    
@@ -62,7 +62,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2412.14642"> <b>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation </b></a>
-  <br><small> Jiatong Li, Junxian Li, <b>Yunqing Liu</b>, Dongzhan Zhou, Qing Li</small>
+  <br><small> Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li</small>
   <br> <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -76,7 +76,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2411.14721"> <b>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts </b></a>
-  <br><small> Jiatong Li, <b>Yunqing Liu</b>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li</small>
+  <br><small> Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li</small>
   <br> <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -90,7 +90,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://ieeexplore.ieee.org/document/10506571/"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
-  <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
+  <br><small> Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li</small>
   <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/LLM4Rec.pdf" class="button"><small>PDF</small></a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -102,9 +102,9 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
-  <br> <small>Jiatong Li, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
+  <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
   <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
-  <br> <small><b>*Corresponding Author</b></small>
+  <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
   <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>  
@@ -114,7 +114,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   <div class="pubs-item">
     <div class="p">
     <a href="https://www.ijcai.org/proceedings/2023/751"> <b>Generative Diffusion Models on Graphs: Methods and Applications</b></a>
-  <br> <small>Chengyi Liu, Wenqi Fan, <b>Yunqing Liu</b>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
+  <br> <small>Chengyi Liu, Wenqi Fan, <strong style="color: #dc322f">Yunqing Liu</strong>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
   <br> <small>The 32nd International Joint Conference On Artificial Intelligence (<b><i>IJCAI</i> 2023</b>)</small> <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/Diffusion_Survey.pdf" class="button"><small>PDF</small></a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -127,7 +127,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   <div class="pubs-item">
     <div class="p">
     <a href="https://aclanthology.org/2023.findings-eacl.175/"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a>
-  <br> <small>Hanxu Hu, <b>Yunqing Liu</b>, Zhongyi Yu and Laura Perez-Beltrachini</small>
+  <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
   <br> <small>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b><i>EACL</i> 2023 Findings</b>)</small> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <a href="/files/T2TRobust.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -139,7 +139,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   <div class="pubs-item">
     <div class="p">
     <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"> <b>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</b></a>
-  <br> <small>Yue Weng, Bo Ding, <b>Yunqing Liu</b>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
+  <br> <small>Yue Weng, Bo Ding, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
   <br> <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> 
   <br> <a href="/files/acs.orglett.1c00609.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
@@ -151,7 +151,7 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
   <div class="pubs-item">
     <div class="p">
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
-  <br> <small>Bo Ding, Yue Weng, <b>Yunqing Liu</b>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
+  <br> <small>Bo Ding, Yue Weng, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
   <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
   <br> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
