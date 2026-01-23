@@ -38,6 +38,15 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/files/MolReGPT.pdf' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
+  <br> Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering
+  <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+</div>
+</div>
+
 <div class="pubs-container">
 
 <div class="pubs-item">
