@@ -27,7 +27,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 + AI for Science (Molecule/Protein Representation Learning and Generation)
 + Natural Language Processing 
  
-## Seleted Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+## Seleted Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +49,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 
 
-## Publications
+## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class="pubs-container">
 
