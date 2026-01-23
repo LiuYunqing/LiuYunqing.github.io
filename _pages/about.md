@@ -53,13 +53,11 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class="pubs-container">
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/MolReGPT.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</small>](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
   <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
-    <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
-  <br> <small>_IEEE Transactions on Knowledge and Data Engineering_
-  <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+  <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
 </div>
 </div>
 
