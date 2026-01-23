@@ -27,7 +27,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 + AI for Science (Molecule/Protein Representation Learning and Generation)
 + Natural Language Processing 
  
-## Seleted Publications 
+## Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +52,16 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class="pubs-container">
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/MolReGPT.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
+  <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
+    <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
+  <br> <small>IEEE Transactions on Knowledge and Data Engineering
+  <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+</div>
+</div>
 
 <div class="pubs-item">
     <div class="p">
