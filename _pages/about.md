@@ -31,10 +31,10 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-[GLProtein: Global-and-Local Structure Aware Protein Representation Learning](https://aclanthology.org/2025.findings-emnlp.233/)
+[GLProtein: Global-and-Local Structure Aware Protein Representation Learning](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li 
   <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_ 
-  <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a> <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a> 
 </div>
 </div>
 
