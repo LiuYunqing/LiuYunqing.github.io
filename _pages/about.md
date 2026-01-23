@@ -102,9 +102,9 @@ I am currently a PhD candidate at the Department of Computing (COMP), The Hong K
 <div class="pubs-item">
     <div class="p">
     <a href="https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
-  <br> <small>Jiatong Li*, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
+  <br> <small>Jiatong Li, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li</small>
   <br> <small>IEEE Transactions on Knowledge and Data Engineering (<b><i>TKDE</i></b>)</small> <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
-  <br> <small><b>*Co-first author</b></small>
+  <br> <small><b>*Corresponding Author</b></small>
   <br> <a href="/files/MolReGPT.pdf" class="button"><small>PDF</small></a> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>  
