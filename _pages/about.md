@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</span> at the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interest lies in <strong style="color: #27AE60;">AI4Science</strong> and <strong style="color: #27AE60;">Natural Language Processing</strong>. I am always welcoming collaboration from solid partners.
+I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</span> at the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interest lies in AI4Science and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
 
 ## Research Interest
