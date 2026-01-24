@@ -61,17 +61,25 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/GLProtein.png' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>GLProtein: Global-and-Local Structure Aware Protein Representation Learning</small>](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
+  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_ 
+  <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a> 
+</div>
+</div> 
+
 <div class="pubs-container">
-<div class="pubs-item">
+<!-- <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br><small> Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan</small>
-   
+  <br><small> Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan</small>  
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">Arxiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="400"></div></div>
   <br>
     </div>
-  </div>
+  </div> -->
 
 <div class="pubs-item">
     <div class="p">
