@@ -67,22 +67,44 @@
         order: 1;
     }
     
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
+    // @include breakpoint($medium) {
+    //     .paper-box-image{
+    //         justify-content: left;
+    //         min-width: 200px;
+    //         max-width: 40%;
+    //         order: 1;
+    //     }
         
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
+    //     .paper-box-text{
+    //         justify-content: left;
+    //         padding-left: 2em;
+    //         max-width: 60%;
+    //         order: 2;
+    //     }
 
+    // }
+
+    @include breakpoint($medium) {
+    .paper-box-image {
+        justify-content: left;
+        /* 取消 max-width: 40% */
+        flex: 0 0 200px; /* 固定宽度为 200px，不缩放 */
+        order: 1;
+        
+        img {
+            width: 100%; /* 让图片充满这 200px 的容器 */
+            height: auto;
+        }
     }
+    
+    .paper-box-text {
+        justify-content: left;
+        padding-left: 2em;
+        /* 取消 max-width: 60% */
+        flex: 1; /* 自动占据剩下的所有空间 */
+        order: 2;
+    }
+}
     
 
 
