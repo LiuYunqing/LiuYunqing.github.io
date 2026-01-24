@@ -148,29 +148,29 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Education
 
-+ <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
++ <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <strong style="color: #D56D53">[<small>2023.01 - Now</small>]</strong>
 <br>&nbsp;&nbsp;&nbsp;The Hong Kong Polytechnic University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
   
-+ <img align="left" decoding="async" src="/images/uoe_log.png" width="9%">  &nbsp;&nbsp;&nbsp;MSc in Computer Science | <small>2021.09 - 2022.11</small>
++ <img align="left" decoding="async" src="/images/uoe_log.png" width="9%">  &nbsp;&nbsp;&nbsp;MSc in Computer Science | <strong style="color: #D56D53">[<small>2021.09 - 2022.11</small>]</strong>
 <br>&nbsp;&nbsp;&nbsp;University of Edinburgh
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Elizabeth Polgreen](https://polgreen.github.io/)
 
-+ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <small>2017.09 - 2020.06</small>
++ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <strong style="color: #D56D53">[<small>2017.09 - 2020.06</small>]</strong>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Huajun Liu](https://jszy.whu.edu.cn/liuhuajun/en/index.htm)
 
-+ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BSc in Chemistry | <small>2016.09 - 2020.06</small>
++ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BSc in Chemistry | <strong style="color: #D56D53">[<small>2016.09 - 2020.06</small> ]</strong>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](https://scholar.google.com/citations?user=whD3aKoAAAAJ&hl=zh-CN)
 
 
 ## Working Experience
 
-+ Research Assistant | <small>2022.10 - 2023.01</small> | <small>Hong Kong</small> 
++ Research Assistant | <strong style="color: #D56D53">[<small>2022.10 - 2023.01</small>]</strong> | <small>Hong Kong</small> 
  <br>Department of Computing, Hong Kong Polytechnic University
  <br>Advisor: [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
-+ Research Assistant | <small>2020.12 - 2021.05</small> | <small>Beijing</small>
++ Research Assistant | <strong style="color: #D56D53">[<small>2020.12 - 2021.05</small>]</strong> | <small>Beijing</small>
  <br>State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences
  <br>Advisor: [Dr. Zhendong Lei](https://www.tcs-lab.com/members/leizhendong/) and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
  
