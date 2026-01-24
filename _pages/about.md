@@ -84,6 +84,16 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div> 
 
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>Recommender Systems in the Era of Large Language Models (LLMs)</small>](https://ieeexplore.ieee.org/document/10506571/) <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li </small>
+  <br> <small>_IEEE Transactions on Knowledge and Data Engineering_ </small>
+  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
+</div>
+</div> 
+
+
 <div class="pubs-container">
 <!-- <div class="pubs-item">
     <div class="p">
@@ -122,7 +132,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
 
-<div class="pubs-item">
+<!-- <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2411.14721"> <b>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts </b></a> <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br><small> Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li</small>
@@ -131,7 +141,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">arXiv</div><img src='/images/MolReFlect.png' alt="sym" width="400"></div></div>
   <br>
     </div>
-  </div>
+  </div> -->
 
 
   
