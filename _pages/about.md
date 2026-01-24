@@ -33,7 +33,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 <div class='paper-box-text' markdown="1">
 [GLProtein: Global-and-Local Structure Aware Protein Representation Learning](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
-  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_ 
+  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_</small>
   <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a> 
 </div>
 </div>
@@ -44,7 +44,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
   <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
   <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
   <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
-  <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+  <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
 </div>
 </div>
 
@@ -64,7 +64,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 <div class='paper-box-text' markdown="1">
 [<small>GLProtein: Global-and-Local Structure Aware Protein Representation Learning</small>](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
-  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_ 
+  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_</small>
   <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a> 
 </div>
 </div> 
