@@ -93,12 +93,12 @@
 /* 新增：专门针对小图版 (Publications) 的布局逻辑 */
 .paper-box-small {
     display: flex;
-    justify-content: left;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 1em 0 1em 0;
+    padding: 0.5em 0;
     
 
     .paper-box-image{
@@ -119,6 +119,7 @@
     }
     
     @include breakpoint($medium) {
+        padding: 0.5em 0;
         .paper-box-image {
             /* 强制固定宽度，不使用百分比 */
             flex: 0 0 200px; 
