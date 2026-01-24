@@ -105,7 +105,7 @@
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 1;
+        order: 2;
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
@@ -115,7 +115,7 @@
     
     .paper-box-text{
         max-width: 100%;
-        order: 2;
+        order: 1;
     }
     
     @include breakpoint($medium) {
@@ -124,6 +124,7 @@
             flex: 0 0 200px; 
             max-width: 200px; 
             min-width: 200px;
+            order: 1;
         }
 
         .paper-box-text {
@@ -131,6 +132,7 @@
             flex: 1; 
             max-width: none; 
             padding-left: 2em;
+            order: 2;
         }
     }
 }
