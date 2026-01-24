@@ -51,17 +51,16 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class="pubs-container">
-  
-<!-- <div class='paper-box'><div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="200"></div></div> 
-<div class='paper-box-text' markdown="1">
-[<small>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</small>](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
-  <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
-  <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
-</div>
-</div> -->
 
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
+</div>
+</div> 
+
+<div class="pubs-container">
 <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
