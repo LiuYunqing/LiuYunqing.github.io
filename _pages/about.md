@@ -54,14 +54,14 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>GLProtein: Global-and-Local Structure Aware Protein Representation Learning</small>](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
@@ -70,9 +70,16 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation</small>](https://arxiv.org/abs/2412.14642) <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
+  <br> <small>Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li </small>
+</div>
+</div> 
+
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/MolReFlect.png' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts</small>](https://arxiv.org/abs/2411.14721) <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li </small>
 </div>
 </div> 
