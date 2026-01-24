@@ -67,21 +67,37 @@
         order: 1;
     }
     
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
+    // @include breakpoint($medium) {
+    //     .paper-box-image{
+    //         justify-content: left;
+    //         min-width: 200px;
+    //         max-width: 40%;
+    //         order: 1;
+    //     }
         
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
+    //     .paper-box-text{
+    //         justify-content: left;
+    //         padding-left: 2em;
+    //         max-width: 60%;
+    //         order: 2;
+    //     }
 
+    // }
+    @include breakpoint($medium) {
+    .paper-box-image {
+        order: 1;
+        width: 200px;       /* 1. 固定图片宽度，与你 HTML 中的 200 匹配 */
+        max-width: none;    /* 取消原有的 40% 限制 */
+        flex-shrink: 0;     /* 保证图片不会被压缩 */
+        justify-content: flex-start;
+    }
+    
+    .paper-box-text {
+        order: 2;
+        flex: 1;            /* 2. 关键：让文字自动填满右侧所有剩余空间 */
+        max-width: none;    /* 取消原有的 60% 限制 */
+        padding-left: 0;    /* 3. 删掉多余的 padding，只用外层的 gap: 15px 控制间距 */
+    }
     }
 
 
