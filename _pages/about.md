@@ -44,7 +44,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
   <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
   <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
   <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
-  <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
+  <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a>
 </div>
 </div>
 
@@ -102,7 +102,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">IJCAI</div><img src='/images/survey.png' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>Generative Diffusion Models on Graphs: Methods and Applications</small>](https://www.ijcai.org/proceedings/2023/751) <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Chengyi Liu, Wenqi Fan, <strong style="color: #dc322f">Yunqing Liu</strong>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
@@ -111,7 +111,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div> 
 
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EACL2023</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>Improving User Controlled Table-To-Text Generation Robustness</small>](https://aclanthology.org/2023.findings-eacl.175/) <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
