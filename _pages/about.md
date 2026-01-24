@@ -89,7 +89,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 [<small>Recommender Systems in the Era of Large Language Models (LLMs)</small>](https://ieeexplore.ieee.org/document/10506571/) <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li </small>
   <br> <small>_IEEE Transactions on Knowledge and Data Engineering_ </small>
-  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"><small>Tutorial</small></a> 
+  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"> <small>Tutorial</small> </a> 
 </div>
 </div> 
 
