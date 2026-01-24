@@ -114,13 +114,32 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EACL2023</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
-[<small>Improving User Controlled Table-To-Text Generation Robustness</small>](https://www.ijcai.org/proceedings/2023/751) <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
+[<small>Improving User Controlled Table-To-Text Generation Robustness</small>](https://aclanthology.org/2023.findings-eacl.175/) <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
   <br> <small>In _Findings of the Association for Computational Linguistics: EACL 2023_ </small>
+  <br> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a>
 </div>
 </div> 
 
-<div class="pubs-container">
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</small>](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609) <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"><img src="https://img.shields.io/badge/DOI-10.1021-b31b1b.svg" alt="badge-doi"/></a> 
+  <br> <small>Yue Weng, Bo Ding, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
+  <br>  <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> 
+</div>
+</div> 
+
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[<small>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</small>](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572) <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"><img src="https://img.shields.io/badge/DOI-10.1002-b31b1b.svg" alt="badge-doi"/></a> 
+  <br> <small>Bo Ding, Yue Weng, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
+  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
+</div>
+</div> 
+
+
+
+<!-- <div class="pubs-container"> -->
 <!-- <div class="pubs-item">
     <div class="p">
     <a href="https://arxiv.org/abs/2512.15133"> <b>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens </b></a> <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
@@ -208,7 +227,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
   </div> -->
 
 
-  <div class="pubs-item">
+  <!-- <div class="pubs-item">
     <div class="p">
     <a href="https://aclanthology.org/2023.findings-eacl.175/"> <b>Improving User Controlled Table-To-Text Generation Robustness</b></a> <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
@@ -218,9 +237,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
   <br>    
     </div>
-  </div>
+  </div>  -->
 
-  <div class="pubs-item">
+  <!-- <div class="pubs-item">
     <div class="p">
     <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"> <b>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</b></a>
   <br> <small>Yue Weng, Bo Ding, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
@@ -230,20 +249,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
   <br>     
     </div>
-  </div>
+  </div> -->
 
-  <div class="pubs-item">
-    <div class="p">
-    <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
-  <br> <small>Bo Ding, Yue Weng, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
-  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
-  <br> <a href="/files/ejoc.201901572.pdf" class="button"><small>PDF</small></a>
-  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
-  
-</div>
-</div>
-</div>
+ 
 
 
 
