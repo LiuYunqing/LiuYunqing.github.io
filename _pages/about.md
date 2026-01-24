@@ -29,7 +29,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
  
 ## Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
 [GLProtein: Global-and-Local Structure Aware Protein Representation Learning](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br>
@@ -39,7 +39,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/MolReGPT.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
 [Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
   <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
