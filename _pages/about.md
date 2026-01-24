@@ -53,7 +53,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
