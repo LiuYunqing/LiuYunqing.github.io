@@ -29,7 +29,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
  
 ## Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol_pdf.pdf' alt="sym" width="400"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
@@ -60,7 +60,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol_pdf.pdf' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
