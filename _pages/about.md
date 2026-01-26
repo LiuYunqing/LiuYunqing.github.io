@@ -29,6 +29,15 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
  
 ## Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol_pdf.pdf' alt="sym" width="400"></div></div>
+<div class='paper-box-text' markdown="1">
+[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
+  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
+  <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
+  <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
 [GLProtein: Global-and-Local Structure Aware Protein Representation Learning](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
@@ -51,6 +60,14 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol_pdf.pdf' alt="sym" width="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
+  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
+  <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
+  <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
+</div>
+</div>
 
   
 <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
