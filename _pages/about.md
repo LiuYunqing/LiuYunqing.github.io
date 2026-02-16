@@ -31,7 +31,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
+[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions](https://openreview.net/forum?id=S4bJQ4p9hx) <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
   <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
   <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
@@ -62,7 +62,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions]() <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
+[Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions](https://openreview.net/forum?id=S4bJQ4p9hx) <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
   <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
   <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
