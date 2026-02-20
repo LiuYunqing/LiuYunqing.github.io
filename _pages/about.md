@@ -34,7 +34,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 [Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions](https://openreview.net/forum?id=S4bJQ4p9hx) <!--<a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a>  -->
   <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
   <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
-  <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
+  <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a> 
 </div>
 </div>
 
