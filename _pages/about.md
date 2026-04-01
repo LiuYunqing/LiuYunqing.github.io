@@ -180,6 +180,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Working Experience
 
++ Quantitative Researcher Intern| <strong style="color: #D56D53"> <small>2026.4 - Now</small> </strong> | <small>Beijing</small> 
+ <br>JoinQuant
+ <br>Mentor: Rui Xiao
 + Research Assistant | <strong style="color: #D56D53"> <small>2022.10 - 2023.01</small> </strong> | <small>Hong Kong</small> 
  <br>Department of Computing, Hong Kong Polytechnic University
  <br>Advisor: [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
