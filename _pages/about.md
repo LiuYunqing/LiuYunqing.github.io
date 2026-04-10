@@ -187,7 +187,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
  <br>&nbsp;&nbsp;&nbsp;Department of Computing, Hong Kong Polytechnic University
  <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + <img align="left" decoding="async" src="/images/CAS_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Research Assistant | <strong style="color: #D56D53"><small>2020.12 - 2021.05</small></strong> | <small>Beijing</small>
- <br>&nbsp;&nbsp;&nbsp;State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences
+ <br>&nbsp;&nbsp;&nbsp;State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, CAS
  <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Zhendong Lei](https://www.tcs-lab.com/members/leizhendong/) and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
  
  
