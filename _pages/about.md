@@ -180,7 +180,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Working Experience
 
-+ <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Quantitative Researcher Intern | <strong style="color: #D56D53"> <small>2026.04 - Now</small> </strong> | <small>Beijing</small> 
++ <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Quantitative Researcher | <strong style="color: #D56D53"> <small>2026.04 - Now</small> </strong> | <small>Beijing</small> 
  <br>&nbsp;&nbsp;&nbsp;JoinQuant
  <br>&nbsp;&nbsp;&nbsp;Mentor: Rui Xiao
 
