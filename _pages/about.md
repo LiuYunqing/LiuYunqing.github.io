@@ -74,6 +74,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 <div class='paper-box-text' markdown="1">
 [<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
+  <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
 </div>
 </div> 
 
