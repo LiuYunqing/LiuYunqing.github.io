@@ -87,10 +87,11 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div> 
 
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
+<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
-[<small>TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation</small>](https://arxiv.org/abs/2412.14642) <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
+[<small>Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation</small>](https://arxiv.org/abs/2412.14642) <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
   <br> <small>Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li </small>
+  <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
 </div>
 </div> 
 
