@@ -7,6 +7,7 @@ redirect_from:
   - /awards
 ---
 
++ <strong style="color: #D56D53">[2025]</strong> <img src='/images/polyu_logo.png' style='width: 1.2em;'> PolyU PhD Scholars International Collaborative Research Fellowship (**ICRF**)
 + <strong style="color: #D56D53">[2025]</strong> <img src='/images/KDD2025.png' style='width: 3em;'> [KDD Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/)
 + <strong style="color: #D56D53">[2023]</strong> <img src='/images/polyu_logo.png' style='width: 1.2em;'> [PolyU Research Postgraduate Scholarship (**PRPgS**)](https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/phd-and-mphil-in-computing/)
 + <strong style="color: #D56D53">[2022]</strong> <img src='/images/uoe_log.png' style='width: 1.2em;'> IBM **Third Prize** for the Best Project in Machine Learning Practical (**Third place** out of 53 teams)
