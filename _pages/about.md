@@ -199,7 +199,8 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## Working Experience
 
-+ <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;AI & Quantitative Researcher | <strong style="color: #D56D53"> <small>2026.04 - Now</small> </strong> | <small>Beijing</small> 
++ <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;AI & Quantitative Researcher 
+ <br>&nbsp;&nbsp;&nbsp; <strong style="color: #D56D53"> <small>2026.04 - Now</small> </strong> | <small>Beijing</small>
  <br>&nbsp;&nbsp;&nbsp;JoinQuant
 
 + <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Research Assistant | <strong style="color: #D56D53"> <small>2022.10 - 2023.01</small> </strong> | <small>Hong Kong</small> 
