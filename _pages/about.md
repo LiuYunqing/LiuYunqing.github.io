@@ -67,8 +67,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ------------
 
+
 <details>
-  <summary style="margin-left: 0.8em; color:rgb(114, 173, 146);">All Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> </summary>
+  <summary style="margin-left: 0.8em;">All Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> </summary>
 
   <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -177,7 +178,6 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
 
-------------------
        
 
 ## Education
