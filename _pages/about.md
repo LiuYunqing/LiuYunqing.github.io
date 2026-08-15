@@ -22,7 +22,7 @@ redirect_from:
 I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</span> at the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Chair Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interest lies in AI4Science and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
 
-## Research Interest
+## <span style="color:#5C5958"> Research Interest </span>
 
 + AI for Science (Molecule/Protein Representation Learning and Generation)
 + Natural Language Processing 
@@ -179,7 +179,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
        
 
-## Education
+## <span style="color:#5C5958"> Education </span>
 
 + <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <strong style="color: #D56D53"><small>2023.01 - Now</small></strong>
 <br>&nbsp;&nbsp;&nbsp;The Hong Kong Polytechnic University
@@ -198,7 +198,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](https://scholar.google.com/citations?user=whD3aKoAAAAJ&hl=zh-CN)
 
 
-## Working Experience
+## <span style="color:#5C5958"> Working Experience </span>
 
 + <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;AI & Quantitative Researcher 
  <br>&nbsp;&nbsp;&nbsp; <strong style="color: #D56D53"> <small>2026.04 - Now</small> </strong> | <small>Beijing</small>
