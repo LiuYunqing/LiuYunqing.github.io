@@ -65,6 +65,8 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
+------------
+
 <details>
   <summary style="margin-left: 0.8em; color:rgb(114, 173, 146);">All Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> </summary>
 
@@ -175,7 +177,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
 
-   
+------------------
        
 
 ## Education
