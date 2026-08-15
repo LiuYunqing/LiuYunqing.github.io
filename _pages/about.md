@@ -65,113 +65,113 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
+<details>
+  <summary style="margin-left: 0.8em; color:rgb(114, 173, 146);">All Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> </summary>
 
-## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition</small>](https://arxiv.org/abs/2605.25577) <a href="https://arxiv.org/abs/2605.25577"><img src="https://img.shields.io/badge/arXiv-2605.25577-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
-  <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
-</div>
-</div>
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions</small>](https://openreview.net/forum?id=S4bJQ4p9hx) <a href="https://arxiv.org/abs/2603.00568"><img src="https://img.shields.io/badge/arXiv-2603.00568-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
-  <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
-  <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
-</div>
-</div>
-
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition</small>](https://arxiv.org/abs/2605.25577) <a href="https://arxiv.org/abs/2605.25577"><img src="https://img.shields.io/badge/arXiv-2605.25577-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
+    <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
+  </div>
+  </div>
   
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
-  <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>GLProtein: Global-and-Local Structure Aware Protein Representation Learning</small>](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
-  <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_</small>
-  <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation</small>](https://arxiv.org/abs/2412.14642) <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small>Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li </small>
-  <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='/images/MolReFlect.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts</small>](https://arxiv.org/abs/2411.14721) <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a>
-  <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li </small>
-  <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='/images/LLMs_tasks.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Recommender Systems in the Era of Large Language Models (LLMs)</small>](https://ieeexplore.ieee.org/document/10506571/) <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small>Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li </small>
-  <br> <small>_IEEE Transactions on Knowledge and Data Engineering_ </small>
-  <!-- <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"> <small>Tutorial</small> </a>  -->
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='/images/MolReGPT.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</small>](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
-  <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
-  <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
-  <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
-  <!-- <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a> -->
-</div>
-</div>
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Generative Diffusion Models on Graphs: Methods and Applications</small>](https://www.ijcai.org/proceedings/2023/751) <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small>Chengyi Liu, Wenqi Fan, <strong style="color: #dc322f">Yunqing Liu</strong>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
-  <br> <small>In _Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence_ </small>
-  <!-- <br> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a> -->
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Improving User Controlled Table-To-Text Generation Robustness</small>](https://aclanthology.org/2023.findings-eacl.175/) <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
-  <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
-  <br> <small>In _Findings of the Association for Computational Linguistics: EACL 2023_ </small>
-  <!-- <br> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a> -->
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</small>](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609) 
-  <br> <small>Yue Weng, Bo Ding, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
-  <br>  <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> 
-</div>
-</div> 
-
-<div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-[<small>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</small>](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572) 
-  <br> <small>Bo Ding, Yue Weng, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
-  <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
-</div>
-</div> 
-
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/DeMol.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions</small>](https://openreview.net/forum?id=S4bJQ4p9hx) <a href="https://arxiv.org/abs/2603.00568"><img src="https://img.shields.io/badge/arXiv-2603.00568-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Yi Zhou, Wenqi Fan</small>
+    <br> <small>_The Fourteenth International Conference on Learning Representations_ (**ICLR 2026**)</small>
+    <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
+  </div>
+  </div>
+  
+    
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/HD-Prot.jpg' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens</small>](https://arxiv.org/abs/2512.15133) <a href="https://arxiv.org/abs/2512.15133"><img src="https://img.shields.io/badge/arXiv-2512.15133-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small>Yi Zhou, Haohao Qu, <strong style="color: #dc322f">Yunqing Liu</strong>, Shanru Lin, Le Song, Wenqi Fan </small>
+    <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/GLProtein.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>GLProtein: Global-and-Local Structure Aware Protein Representation Learning</small>](https://aclanthology.org/2025.findings-emnlp.233/) <a href="https://arxiv.org/abs/2506.06294"><img src="https://img.shields.io/badge/arXiv-2506.06294-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small><strong style="color: #dc322f">Yunqing Liu</strong>, Wenqi Fan, Xiaoyong Wei, Qing Li </small>
+    <br> <small>In _Findings of the Association for Computational Linguistics: EMNLP 2025_</small>
+    <!-- <br> <a href="https://github.com/LiuYunqing/GLProtein" class="button"><small>Code</small></a>  -->
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/TOMG.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation</small>](https://arxiv.org/abs/2412.14642) <a href="https://arxiv.org/abs/2412.14642"><img src="https://img.shields.io/badge/arXiv-2412.14642-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small>Jiatong Li, Junxian Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Dongzhan Zhou, Qing Li </small>
+    <br> <small>_32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (**KDD 2026**)</small>
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='/images/MolReFlect.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts</small>](https://arxiv.org/abs/2411.14721) <a href="https://arxiv.org/abs/2411.14721"><img src="https://img.shields.io/badge/arXiv-2411.14721-b31b1b.svg" alt="badge-arxiv"/></a>
+    <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li </small>
+    <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='/images/LLMs_tasks.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Recommender Systems in the Era of Large Language Models (LLMs)</small>](https://ieeexplore.ieee.org/document/10506571/) <a href="https://arxiv.org/abs/2307.02046"><img src="https://img.shields.io/badge/arXiv-2307.02046-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small>Wenqi Fan, Zihuai Zhao, Jiatong Li, <strong style="color: #dc322f">Yunqing Liu</strong>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li </small>
+    <br> <small>_IEEE Transactions on Knowledge and Data Engineering_ </small>
+    <!-- <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button"> <small>Tutorial</small> </a>  -->
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='/images/MolReGPT.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</small>](https://dl.acm.org/doi/abs/10.1109/TKDE.2024.3393356) <a href="https://arxiv.org/abs/2306.06615"><img src="https://img.shields.io/badge/arXiv-2306.06615-b31b1b.svg" alt="badge-arxiv"/></a>  
+    <br> <small>Jiatong Li, <strong style="color: #dc322f">Yunqing Liu*</strong>, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li </small>
+    <br> <small><strong style="color: #dc322f">*Corresponding Author</strong></small>
+    <br> <small>_IEEE Transactions on Knowledge and Data Engineering_</small>
+    <!-- <br> <a href="https://github.com/phenixace/MolReGPT" class="button"><small>Code</small></a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button"><small>中文Chinese</small></a> -->
+  </div>
+  </div>
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Generative Diffusion Models on Graphs: Methods and Applications</small>](https://www.ijcai.org/proceedings/2023/751) <a href="https://arxiv.org/abs/2302.02591"><img src="https://img.shields.io/badge/arXiv-2302.02591-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small>Chengyi Liu, Wenqi Fan, <strong style="color: #dc322f">Yunqing Liu</strong>, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li</small>
+    <br> <small>In _Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence_ </small>
+    <!-- <br> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button"><small>中文Chinese</small></a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button"><small>Github</small></a> <a href="/files/diffusion_survey_poster.pdf" class="button"><small>Poster</small></a> -->
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Improving User Controlled Table-To-Text Generation Robustness</small>](https://aclanthology.org/2023.findings-eacl.175/) <a href="https://arxiv.org/abs/2302.09820"><img src="https://img.shields.io/badge/arXiv-2302.09820-b31b1b.svg" alt="badge-arxiv"/></a> 
+    <br> <small>Hanxu Hu, <strong style="color: #dc322f">Yunqing Liu</strong>, Zhongyi Yu and Laura Perez-Beltrachini</small>
+    <br> <small>In _Findings of the Association for Computational Linguistics: EACL 2023_ </small>
+    <!-- <br> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button"><small>Code</small></a> -->
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</small>](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609) 
+    <br> <small>Yue Weng, Bo Ding, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang</small>
+    <br>  <small><b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714</small> 
+  </div>
+  </div> 
+  
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/outputs.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</small>](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572) 
+    <br> <small>Bo Ding, Yue Weng, <strong style="color: #dc322f">Yunqing Liu</strong>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang</small>
+    <br> <small><b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605</small> 
+  </div>
+  </div> 
+</details>
 
 
 
