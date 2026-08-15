@@ -65,9 +65,9 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
+<br> <br> 
 
-
-<br> <details>
+<details>
   <summary style="margin-left: 0.8em;"> <b>All Publications (Show More) </b></summary>
 
   <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
