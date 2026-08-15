@@ -27,7 +27,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 + AI for Science (Molecule/Protein Representation Learning and Generation)
 + Natural Language Processing 
  
-## Selected Publications 
+## Selected Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="400"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,7 +69,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 
 <details>
-  <summary style="margin-left: 0.8em;">All Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> </summary>
+  <summary style="margin-left: 0.8em;">All Publications </summary>
 
   <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
   <div class='paper-box-text' markdown="1">
