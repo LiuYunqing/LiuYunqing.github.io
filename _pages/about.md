@@ -65,7 +65,6 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 </div>
 </div>
 
-------------
 
 
 <details>
