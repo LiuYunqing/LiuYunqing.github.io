@@ -199,7 +199,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 ## <span style="color:#153266"> Working Experience </span>
 
-+ <img align="left" decoding="async" src="/images/hunyuan.png" width="9%"> &nbsp;&nbsp;&nbsp;AI Researcher 
++ <img align="left" decoding="async" src="/images/hunyuan.png" width="9%"> &nbsp;&nbsp;&nbsp;Senior Researcher 
  <br>&nbsp;&nbsp;&nbsp; <strong style="color: #D56D53"> <small>2026.08 - Now</small> </strong> | <small>Shenzhen</small>
  <br>&nbsp;&nbsp;&nbsp;Tencent Project UP （青云计划） 
 
