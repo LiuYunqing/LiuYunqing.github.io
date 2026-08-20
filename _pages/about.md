@@ -201,7 +201,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 
 + <img align="left" decoding="async" src="/images/hunyuan.png" width="9%"> &nbsp;&nbsp;&nbsp;Senior Researcher 
  <br>&nbsp;&nbsp;&nbsp; <strong style="color: #D56D53"> <small>2026.08 - Now</small> </strong> | <small>Shenzhen</small>
- <br>&nbsp;&nbsp;&nbsp;Tencent Project UP （青云计划） 
+ <br>&nbsp;&nbsp;&nbsp;Tencent Project UP Talent Program（青云计划） 
 
 + <img align="left" decoding="async" src="/images/JoinQuant_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;AI & Quantitative Researcher 
  <br>&nbsp;&nbsp;&nbsp; <strong style="color: #D56D53"> <small>2026.04 - 2026.08</small> </strong> | <small>Beijing</small>
