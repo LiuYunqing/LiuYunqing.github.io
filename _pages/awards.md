@@ -7,6 +7,7 @@ redirect_from:
   - /awards
 ---
 
++ <strong style="color: #D56D53">[2026]</strong> <img src='/images/tencent.png' style='width: 1.2em;'> Tencent Project UP Qingyun Talent Program (腾讯青云计划)
 + <strong style="color: #D56D53">[2026]</strong> <img src='/images/polyu_logo.png' style='width: 1.2em;'> PolyU Additional Top Conference Grant (**ATCG**)
 + <strong style="color: #D56D53">[2025]</strong> <img src='/images/polyu_logo.png' style='width: 1.2em;'> PolyU PhD Scholars International Collaborative Research Fellowship (**ICRF**)
 + <strong style="color: #D56D53">[2025]</strong> <img src='/images/KDD2025.png' style='width: 3em;'> [KDD Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/)
