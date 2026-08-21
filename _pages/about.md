@@ -69,6 +69,14 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
 <details>
   <summary style="margin-left: 0.8em;"> <b> <span style="color:#3D36F7"> All Publications (Show More) </span> </b></summary>
 
+  <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='/images/unlocking.png' alt="sym" width="200"></div></div>
+  <div class='paper-box-text' markdown="1">
+  [<small>Unlocking Multimodal Protein Language Models at Inference Time</small>] 
+    <br> Yi Zhou, Qipeng Wang, <small><strong style="color: #dc322f">Yunqing Liu</strong>, Jun Xia, Qing Li, Wenqi Fan</small>
+    <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
+  </div>
+  </div>
+
   <div class='paper-box-small'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/GOflow.png' alt="sym" width="200"></div></div>
   <div class='paper-box-text' markdown="1">
   [<small>Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition</small>](https://arxiv.org/abs/2605.25577) <a href="https://arxiv.org/abs/2605.25577"><img src="https://img.shields.io/badge/arXiv-2605.25577-b31b1b.svg" alt="badge-arxiv"/></a> 
