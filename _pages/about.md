@@ -73,7 +73,7 @@ I am currently a <span style="color:#D66AA7; font-weight:bold;">PhD candidate</s
   <div class='paper-box-text' markdown="1">
   <small>Unlocking Multimodal Protein Language Models at Inference Time</small> 
     <br>  <small>Yi Zhou, Qipeng Wang, <strong style="color: #dc322f">Yunqing Liu</strong>, Jun Xia, Qing Li, Wenqi Fan</small>
-    <br> <small>_The 2026 Conference on Empirical Methods in Natural Language Processing _ (**EMNLP 2026**)</small>
+    <br> <small>_The 2026 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2026**)</small>
     <!-- <br> <a href="https://github.com/LiuYunqing/DeMol" class="button"><small>Code</small></a>  -->
   </div>
   </div>
